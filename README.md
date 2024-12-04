@@ -17,4 +17,7 @@ To design and deploy a prototype application for image generation utilizing the 
 
 ### OUTPUT:
 
+![image](https://github.com/user-attachments/assets/15c9d23e-175d-42f6-ae93-4f0c7b26bce3)
+
+
 ### RESULT:
